@@ -30,6 +30,9 @@ Ejemplo:
 
 Este diagrama (llamados [diagramas de entidad-relación](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)) muestra todas las tablas que forman la base de datos (cada tabla es un archivo que se descarga del portal del INEGI) y cómo se relaciona una tabla con otra, es decir, a través de qué variable podemos **hacer <em>merges</em> entre tablas**.
 
+Se puede observar que todas las tablas tienen un identificador <em>FOLIOVIV</em> (folio de la vivienda), y la mayoría tienen <em>FOLIOHOG</em> (folio del hogar). Esto quiere decir que las observaciones (renglones) de la base de datos tendrán el dato de a qué vivienda y a qué hogar corresponde dicha observación. 
+
+---
 
 La base de datos de la ENIGH 2014, está conformada por 11 tablas de datos normalizadas (todos los atributos no llave
 de una relación dependen sólo y exclusivamente de la llave) en las que se distribuye la información obtenida de la
