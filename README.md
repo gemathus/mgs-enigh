@@ -41,5 +41,5 @@ publica una tabla resumen con información a nivel hogar llamada **CONCENTRADOHO
 
 Como indica el párrafo anterior, la ENIGH 2014 cuenta con una tabla resumen llamada **CONCENTRADOHOGAR**. Empezar analizando esta tabla es un buen primer paso.
 
-
+[Abrir notebook 1-Exploracion-concentrado-hogar.nb.html](1-Exploracion-concentrado-hogar.nb.html)
 
