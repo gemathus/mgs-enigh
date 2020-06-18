@@ -1,6 +1,8 @@
 ---
 title: "1-Exploracion-concentrado-2014"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
 ### 1. Cargar librerías
@@ -12,7 +14,7 @@ Puedes leeer más de tidyverse en [su página tidyverse.org](https://www.tidyver
 
 Si no est´tá instalado Tidyverse:
 ```{r}
-install.packages("tidyverse")
+#install.packages("tidyverse")
 ```
 
 Cargar tidyverse
